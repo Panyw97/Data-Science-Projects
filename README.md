@@ -11,3 +11,7 @@
 * [TensorFlow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 
+
+## Variable List & Interpretation
+
+* [Google Analytics](https://support.google.com/analytics/answer/3437719?hl=en)
